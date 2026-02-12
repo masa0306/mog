@@ -1,0 +1,7 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="800" fill="#2C3E50"/>
+<circle cx="210" cy="180" r="120" fill="#F07F5E" fill-opacity="0.6"/>
+<circle cx="940" cy="640" r="180" fill="#F9F9F9" fill-opacity="0.2"/>
+<path d="M0 620C240 520 370 780 630 640C830 530 980 660 1200 530V800H0V620Z" fill="#F07F5E" fill-opacity="0.35"/>
+<text x="60" y="740" font-size="56" font-family="Arial" font-weight="700" fill="#F9F9F9">MoG Program Scene</text>
+</svg>
